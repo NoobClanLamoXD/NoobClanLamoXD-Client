@@ -1,10 +1,10 @@
 This is a work in progress roblox universal script this will be updated whenever we want it to be updated!
 
-Update Log:
+**Update Log:**
 - Added Doors Scripts
 - Added Arsenal Scripts
 
-Work in progess:
+**Work in progess:**
 - The Misc Section
 - The FOV Changer
 - The Section Icons
@@ -12,5 +12,5 @@ Work in progess:
 - Functional Daily Key System
 - blacklist and whitelist
 
-Coming Soon:
+**Coming Soon:**
 - V2
