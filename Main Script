@@ -1,0 +1,153 @@
+getgenv().SecureMode = true
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
+
+local Window = Rayfield:CreateWindow({
+    Name = "NoobClanLamoXD Client",
+    LoadingTitle = "Loading NoobClanLamoXD Client...",
+    LoadingSubtitle = "by the NoobClanLamoXD Scripters!",
+    ConfigurationSaving = {
+       Enabled = true,
+       FolderName = nil, -- Create a custom folder for your hub/gam
+       FileName = "Yass NoobClan"
+    },
+    Discord = {
+       Enabled = false,
+       Invite = "noinvitelink", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD.
+       RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+    },
+    KeySystem = true, -- Set this to true to use our key system
+    KeySettings = {
+       Title = "NoobClanLamoXD Client",
+       Subtitle = "Key System",
+       Note = "Join the discord (discord.gg/sirius)",
+       FileName = "NoobKey",
+       SaveKey = true,
+       GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+       Key = "Noob"
+    }
+ })
+
+ local Tab = Window:CreateTab("Character", 4483362458)
+ local Section = Tab:CreateSection("Charater Stuff")
+
+ local Button = Tab:CreateButton({
+    Name = "100 Walkspeed",
+    Callback = function()
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "Reset Walkspeed",
+    Callback = function()
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "200 JumpPower",
+    Callback = function()
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = 200
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "Reset JumpPower",
+    Callback = function()
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+    end,
+ })
+
+ local Tab = Window:CreateTab("Arsenal", 4483362458)
+ local Section = Tab:CreateSection("The Scripts")
+
+ local Button = Tab:CreateButton({
+    Name = "BoltsHubV5",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/Main"))();
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "Owl Hub",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+    end,
+ })
+
+ local Tab = Window:CreateTab("Doors", 4483362458)
+ local Section = Tab:CreateSection("The Scripts")
+
+ local Button = Tab:CreateButton({
+    Name = "Vynixius",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua"))()
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "Poopdoors / MSDoors",
+    Callback = function()
+        loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/poopdoors_edited/main/poopdoors_edited.lua"),true))()
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "Auto A-1000",
+    Callback = function()
+        loadstring(game:HttpGet("https://pastebin.com/raw/9rANsU1y", true))()
+    end,
+ })
+
+ local Tab = Window:CreateTab("Esp's", 4483362458)
+ local Section = Tab:CreateSection("The Esp's")
+
+ local Button = Tab:CreateButton({
+    Name = "Unnamed Esp",
+    Callback = function()
+        pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))() end)
+    end,
+ })
+
+ local Button = Tab:CreateButton({
+    Name = "ESP Universal",
+    Callback = function()
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/zachisfunny/esp-unversal/main/script'),true))()
+    end,
+ })
+
+ local Tab = Window:CreateTab("Admin", 4483362458)
+ local Section = Tab:CreateSection("The Admin Scripts")
+
+ local Button = Tab:CreateButton({
+   Name = "Infinite Yield",
+   Callback = function()
+      loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Homebrew Admin",
+   Callback = function()
+      loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Syntaxx64/HomebrewAdmin/master/Main"))()
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "CMD - X",
+   Callback = function()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "Fates Admin",
+   Callback = function()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
+   end,
+})
+
+local Tab = Window:CreateTab("Credits", 4483362458)
+local Section = Tab:CreateSection("The Credits")
+
+local Label = Tab:CreateLabel("Credits to NoobClanLamoXD#7039 for the scripts and stuff!")
