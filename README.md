@@ -1,16 +1,17 @@
-```This is a work in progress roblox universal script this will be updated whenever we want it to be updated!```
+![NoobClanLamoXD_Client (2)](https://user-images.githubusercontent.com/129992699/230660940-3bb47df9-f205-4e87-8929-032e6cfc13fa.png)
 
-**Update Log:**
-- Added Doors Scripts
-- Added Arsenal Scripts
+![GitHub contributors](https://img.shields.io/github/contributors/NoobClanLamoXD/NoobClanLamoXD-Client?logo=Roblox)
 
-**Work in progess:**
+## **Update Log:**
+- Added  Build A Boat For Treasure Scripts
+- Added Bloxfruits Scripts
+- Added Misc Section
+- Added RemoteSpy's Section
+
+## **Work in progess:**
 - The Misc Section
 - The FOV Changer
 - The Section Icons
 - A discord server for the script
 - Functional Daily Key System
 - blacklist and whitelist
-
-**Coming Soon:**
-- V2
