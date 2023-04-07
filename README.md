@@ -7,9 +7,9 @@
 - Added Bloxfruits Scripts
 - Added Misc Section
 - Added RemoteSpy's Section
+- Added Infinite Jump
 
 ## **Work in progess:**
-- The Misc Section
 - The FOV Changer
 - The Section Icons
 - A discord server for the script
