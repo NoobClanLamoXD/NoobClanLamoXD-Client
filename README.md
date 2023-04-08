@@ -15,3 +15,15 @@
 - A discord server for the script
 - Functional Daily Key System
 - blacklist and whitelist
+
+## **Social Links**
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DvT95YZU2b) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCHdsFIXD3s0_VYNBEXgQn5w) 
+
+## **Code Language Used**
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+## **Supported Executors**
+- Synapse X [https://x.synapse.to/]
+- Script-Ware [https://script-ware.com/]
+- Krnl [https://krnl.place/]
+- Valsye [https://valyse.net/]
