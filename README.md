@@ -1,6 +1,7 @@
-![NoobClanLamoXD_Client (2)](https://user-images.githubusercontent.com/129992699/230660940-3bb47df9-f205-4e87-8929-032e6cfc13fa.png)
+![NoobClanLamoXD_Client_V1](https://user-images.githubusercontent.com/129992699/230737043-6947cc88-faa0-4b81-9d4c-f8745e306578.png)
 
-![GitHub contributors](https://img.shields.io/github/contributors/NoobClanLamoXD/NoobClanLamoXD-Client?logo=Roblox)
+
+![GitHub contributors](https://img.shields.io/github/contributors/NoobClanLamoXD/NoobClanLamoXD-Client?logo=Roblox) ![GitHub repo size](https://img.shields.io/github/repo-size/NoobClanLamoXD/NoobClanLamoXD-Client) 
 
 ## **Update Log:**
 - Added  Build A Boat For Treasure Scripts
@@ -27,3 +28,4 @@
 - Script-Ware [https://script-ware.com/]
 - Krnl [https://krnl.place/]
 - Valsye [https://valyse.net/]
+ 
