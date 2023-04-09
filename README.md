@@ -13,7 +13,6 @@
 ## **Work in progess:**
 - The FOV Changer
 - The Section Icons
-- A discord server for the script
 - Functional Daily Key System
 - blacklist and whitelist
 
